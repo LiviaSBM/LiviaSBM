@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/88796784/185002107-1a9b73bd-4153-42c5-9d73-afa701657b27.png" align="right" alt="Livia Avatar" style="width:200px;"/>
+<img src="https://user-images.githubusercontent.com/92832501/189244271-e0ff70c6-a9c0-4bfc-8525-782e420381c2.png" align="right" alt="Livia Avatar" style="width:200px;"/>
 
 ![Count views](https://komarev.com/ghpvc/?username=liviasbm&color=red&style=flat-square)
 
