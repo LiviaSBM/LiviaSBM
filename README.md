@@ -2,7 +2,7 @@
 
 ![Count views](https://komarev.com/ghpvc/?username=liviasbm&color=red&style=flat-square)
 
-<h2 align="right"> Hello 👋 I'm Lívia! <br> <code>Back-End Developer</code>!</h2>
+<h2 align="right"> Hello 👋 I'm Lívia! <br> <code>Project Engineer & Back-End Developer</code>!</h2>
 
 <br> <br> <br>
 ## 💡 Github Stats
